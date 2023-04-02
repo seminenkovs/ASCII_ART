@@ -1,0 +1,15 @@
+F:\Projects\ASCIIArt\bin\Debug\net6.0-windows\ASCIIArt.exe
+F:\Projects\ASCIIArt\bin\Debug\net6.0-windows\ASCIIArt.deps.json
+F:\Projects\ASCIIArt\bin\Debug\net6.0-windows\ASCIIArt.runtimeconfig.json
+F:\Projects\ASCIIArt\bin\Debug\net6.0-windows\ASCIIArt.dll
+F:\Projects\ASCIIArt\bin\Debug\net6.0-windows\ASCIIArt.pdb
+F:\Projects\ASCIIArt\obj\Debug\net6.0-windows\ASCIIArt.csproj.AssemblyReference.cache
+F:\Projects\ASCIIArt\obj\Debug\net6.0-windows\ASCIIArt.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ASCIIArt\obj\Debug\net6.0-windows\ASCIIArt.AssemblyInfoInputs.cache
+F:\Projects\ASCIIArt\obj\Debug\net6.0-windows\ASCIIArt.AssemblyInfo.cs
+F:\Projects\ASCIIArt\obj\Debug\net6.0-windows\ASCIIArt.csproj.CoreCompileInputs.cache
+F:\Projects\ASCIIArt\obj\Debug\net6.0-windows\ASCIIArt.dll
+F:\Projects\ASCIIArt\obj\Debug\net6.0-windows\refint\ASCIIArt.dll
+F:\Projects\ASCIIArt\obj\Debug\net6.0-windows\ASCIIArt.pdb
+F:\Projects\ASCIIArt\obj\Debug\net6.0-windows\ASCIIArt.genruntimeconfig.cache
+F:\Projects\ASCIIArt\obj\Debug\net6.0-windows\ref\ASCIIArt.dll
